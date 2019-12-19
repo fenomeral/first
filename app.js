@@ -1,12 +1,12 @@
 // Write your JS in here
 
 var pics = [
-	"imgs/kitty_bed.jpg",
-	"imgs/kitty_basket.jpg", 
-	"imgs/kitty_laptop.jpg",
-	"imgs/kitty_door.jpg",
-	"imgs/kitty_sink.jpg",
-	"imgs/kitty_wall.jpg"
+	"https://news.artnet.com/app/news-upload/2015/11/chandoha_3.jpg",
+	"https://news.artnet.com/app/news-upload/2019/01/Cat-Photog-2.jpg", 
+	"https://news.artnet.com/app/news-upload/2019/01/Cat-Photog-Feat-728x1024.jpg",
+	"https://news.artnet.com/app/news-upload/2019/01/Cat-Photog-6.jpg",
+	"https://news.artnet.com/app/news-upload/2019/01/Cat-photog-5..jpg",
+	"https://news.artnet.com/app/news-upload/2019/01/cat-photog-4.jpg"
 ]
 
 var btn = document.querySelector("button");
