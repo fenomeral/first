@@ -1,7 +1,7 @@
 // Write your JS in here
 
 var pics = [
-	"https://news.artnet.com/app/news-upload/2015/11/chandoha_3.jpg",
+	"https://news.artnet.com/app/news-upload/2015/11/chandoha_3.jpg", 
 	"https://news.artnet.com/app/news-upload/2019/01/Cat-Photog-2.jpg", 
 	"https://news.artnet.com/app/news-upload/2019/01/Cat-Photog-Feat-728x1024.jpg",
 	"https://news.artnet.com/app/news-upload/2019/01/Cat-Photog-6.jpg",
